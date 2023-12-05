@@ -1,5 +1,5 @@
 terraform {
-  source = "git::git@github.com:pbak-pjatk/terraform-modules.git//argocd?ref=main"
+  source = "git::git@github.com:s17062/terraform-modules.git//argocd?ref=main"
 }
 
 dependencies {
